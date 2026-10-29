@@ -1,0 +1,24 @@
+{
+  "name": "Il mio Trading Hub",
+  "short_name": "Trading Hub",
+  "description": "Il tuo diario e strumento personale di trading",
+  "lang": "it-IT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080d17",
+  "theme_color": "#0b1220",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
